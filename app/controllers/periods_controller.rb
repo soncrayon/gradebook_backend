@@ -1,6 +1,7 @@
 class PeriodsController < ApplicationController
 
     def index
+        @@periods
     end
 
     def create

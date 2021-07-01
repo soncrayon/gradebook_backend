@@ -59,7 +59,7 @@ Competency.create([
     {description: "Demonstrate adequate knowledge of some more advanced magical concepts", level: Level.find_by(year: 6)},
     {description: "Serve as resource for students in lower years", level: Level.find_by(year: 6)},
     {description: "Begin to develop peer relationship with recent graduates or more junior instructors", level: Level.find_by(year: 6)},
-    {description:  "Continue to pursue area of concentration of expertise", level: Level.find_by(year: 7)},
+    {description: "Continue to pursue area of concentration of expertise", level: Level.find_by(year: 7)},
     {description: "Develop satisfactory plan for post graduation", level: Level.find_by(year: 7)},
     {description: "Master capacity to acquire skills and knowledge independently of course of instruction", level: Level.find_by(year: 7)},
     {description: "Serve as resource for students in lower years", level: Level.find_by(year: 7)},

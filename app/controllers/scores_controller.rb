@@ -24,8 +24,8 @@ class ScoresController < ApplicationController
 
     private
 
-    def set_student
-        @student = Score.find(params[:id])
+    def set_score
+        @score = Score.find(params[:id])
     end
     
 end
